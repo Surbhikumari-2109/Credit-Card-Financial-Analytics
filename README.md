@@ -130,9 +130,9 @@ Credit-Card-Financial-Analytics/
     └── Customer_Report.png
 ```
 
-- [SQL implementation](SQL_Queries.sql)
+- [SQL implementation](SQL_Queries_Credit_Card.sql)
 - [Power BI report](Credit_Card_Report.pbix)
-- [Dashboard PDF](Dashboard_Report.pdf)
+- [Dashboard PDF](Credit%20Card%20Financial%20Dashboard.pdf)
 
 ## How to Run
 
